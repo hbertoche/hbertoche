@@ -1,6 +1,6 @@
 # Hugo Bertoche
 
-<span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/hbertoche](https://www.linkedin.com/in/hugo-bertoche-5ab921b0/)  
+<span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/hbertoche](https://www.linkedin.com/in/hugo-bertoche-5ab921b0/)
   : <span class="iconify" data-icon="tabler:phone"></span> [(+55) 2199187-7373](https://wa.me/+5521991877373)  
 
 <span class="iconify" data-icon="tabler:mail"></span> [hj.bertoche@gmail.com](mailto:hj.bertoche@gmail.com)
