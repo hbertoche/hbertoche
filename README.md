@@ -17,7 +17,7 @@ Senior Software Developer with 7+ years of experience in full-stack development,
 
 ## Experience
 
-**Senior Software Developer (Consultant)**  
+**Senior Software Developer (Consultant)**
   : **BVRio**
   : **Jan 2024 – Present**
 - Led a Vue 2 to Vue 3 migration across multiple admin interfaces, reducing technical debt and improving maintainability.  
