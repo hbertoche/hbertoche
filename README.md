@@ -11,7 +11,7 @@
 
 ## Summary
 
-Senior Software Developer with 7+ years of experience in full-stack development, cloud infrastructure, and performance-driven systems. Started as a business analyst in 2015, transitioning to software engineering in 2017—bringing a strong understanding of both business and technical perspectives. Skilled at leading frontend migrations, optimizing APIs, and building scalable services. Passionate about clean code, user-centric design, and cross-functional collaboration.
+Senior Software Developer with 8+ years of experience in full-stack development, cloud infrastructure, and performance-driven systems. Started as a business analyst in 2015, transitioning to software engineering in 2017—bringing a strong understanding of both business and technical perspectives. Skilled at leading frontend migrations, optimizing APIs, and building scalable services. Passionate about clean code, user-centric design, and cross-functional collaboration.
 
 ---
 
