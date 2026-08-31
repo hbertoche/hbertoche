@@ -1,10 +1,8 @@
 # Hugo Bertoche
 
-### Senior Software Engineer
+# Hugo Bertoche
 
-[LinkedIn](https://www.linkedin.com/in/hugo-bertoche/)
-
-**Brazil**
+**Senior Software Engineer** · Brazil · [LinkedIn](https://www.linkedin.com/in/hugo-bertoche/)
 
 ---
 
