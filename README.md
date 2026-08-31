@@ -1,87 +1,121 @@
 # Hugo Bertoche
 
-<span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/hbertoche](https://www.linkedin.com/in/hugo-bertoche-5ab921b0/)
-  : <span class="iconify" data-icon="tabler:phone"></span> [(+55) 2199187-7373](https://wa.me/+5521991877373)  
+### Senior Software Engineer
 
-<span class="iconify" data-icon="tabler:mail"></span> [hj.bertoche@gmail.com](mailto:hj.bertoche@gmail.com)
-  : <span class="iconify" data-icon="ic:outline-location-on"></span> Brazil
+[LinkedIn](https://www.linkedin.com/in/hugo-bertoche/)
 
+Brazil
+---
+
+## About Me
+
+Senior Software Engineer with **9+ years of experience** building scalable backend and full-stack applications using **Node.js, TypeScript, React, AWS, Docker, PostgreSQL, and microservices architectures**.
+
+Specialized in **API development, cloud integrations, distributed systems, and backend architecture**, with a strong focus on performance, reliability, maintainability, and code quality.
 
 ---
 
-## Summary
+## Professional Experience
 
-Senior Software Developer with 8+ years of experience in full-stack development, cloud infrastructure, and performance-driven systems. Started as a business analyst in 2015, transitioning to software engineering in 2017—bringing a strong understanding of both business and technical perspectives. Skilled at leading frontend migrations, optimizing APIs, and building scalable services. Passionate about clean code, user-centric design, and cross-functional collaboration.
+### Senior Software Engineer
 
----
+**Velotax** · Remote
+*Jan 2026 – Jul 2026*
 
-## Experience
+* Designed and implemented integrations with third-party communication providers, enabling a notification infrastructure responsible for delivering **100,000+ messages daily** via email, SMS, and push notifications.
+* Developed and maintained a **public REST API**, enabling external partners to integrate with the company's internal processes.
+* Designed and developed a **CRM platform** that centralized business processes and improved communication through automated user notifications.
+* Refactored and enhanced existing systems to support the adoption of the new messaging infrastructure.
 
-**Senior Software Developer (Consultant)**
-  : **BVRio**
-  : **Jan 2024 – Present**
-- Led a Vue 2 to Vue 3 migration across multiple admin interfaces, reducing technical debt and improving maintainability.  
-- Designed and implemented a reusable map component integrated into 3 systems.  
-- Enhanced UI responsiveness and reliability, cutting API response times by 30%.  
-- Collaborated across UX, product, and backend teams to meet delivery deadlines.
+### Senior Software Engineer · Consultant
 
-**Software Developer (Consultant)**
-  : **Avenue Code**
-  : **Feb 2023 – Oct 2023**
-- Developed a B2B financial platform connecting investors and automotive suppliers.  
-- Improved backend performance and refactored legacy code for clarity and maintainability.  
-- Actively participated in agile ceremonies and helped onboard new team members.  
-- Tech stack: Node.js, NestJS, MySQL, TypeORM, Jest, AWS (SQS, S3, Cognito, DynamoDB, SNS).
+**BVRio** · Remote
+*Jan 2024 – Jan 2026*
 
-**Senior Software Developer**
-  : **Meta – Kraft Heinz Project**
-  : **Aug 2022 – Dec 2022**
-- Built and deployed a video content and affiliate platform with AWS-hosted infrastructure.  
-- Managed CI/CD pipelines and containerization with Docker.  
-- Collaborated on architecture and DevOps implementation across a small, focused team.  
-- Stack: Node.js, Docker, AWS, REST APIs.
+* Evolved and optimized backend APIs and application layers, improving **performance, reliability, and scalability**.
+* Developed map-based frontend components, improving data visualization accuracy and user analysis workflows.
+* Led the migration from **Vue 2 to Vue 3**, restoring build pipeline compatibility and enabling the continued development and maintenance of the platform.
+* Evolved multiple web applications, including **WordPress-based systems**, ensuring data accuracy and operational continuity.
+* Collaborated with multidisciplinary teams, proactively identifying risks and implementing preventive technical solutions.
 
-**Full Stack Developer**
-  : **Venturus**
-  : **Oct 2021 – Jun 2022**
-- Optimized MySQL queries and improved backend API speed by over 30%.  
-- Delivered new features and endpoints in TypeScript with Swagger documentation.  
-- Worked within a Scrum team, actively contributing to sprints and retrospectives.
+### Software Engineer · Consultant
 
-**Full Stack Developer**
-  : **IBM**
-  : **Dec 2015 – Oct 2021**
-- Automated financial processes and migrated legacy systems using NestJS, Vue.js, and LoopBack.  
-- Built microservices and Dockerized core modules for ingestion and rate exposure.  
-- Developed DB2-integrated systems for partner verification, reducing manual effort by 50%.  
-- Supported a mainframe solution used by 2,000+ LATAM users, managing issue resolution and delivery coordination.
+**Avenue Code** · Remote
+*Feb 2023 – Oct 2023*
+
+* Developed and maintained backend APIs and services for a **financial platform**.
+* Implemented new features, performed code refactoring, and optimized system performance.
+* Expanded and validated automated test coverage using **Jest**, increasing the reliability of software releases.
+* Implemented cloud integrations and **asynchronous messaging solutions** to support distributed workflows.
+
+### Senior Software Engineer
+
+**Meta – Kraft Heinz Project** · Full-time
+*Aug 2022 – Dec 2022*
+
+* Worked as a **Backend and DevOps Engineer** on a content-driven platform with media and e-commerce integrations.
+* Designed and implemented **RESTful APIs** and backend business logic.
+* Developed **CI/CD pipelines** and monitored production environment performance, contributing to improved operational stability.
+
+### Full Stack Developer
+
+**Venturus** · Full-time
+*Oct 2021 – Jun 2022*
+
+* Improved backend performance through **SQL query and API optimizations**.
+* Developed and documented APIs using **Swagger**.
+* Worked across both backend and frontend in a **Scrum** environment.
+
+### Full Stack Developer
+
+**IBM** · Full-time
+*Jan 2017 – Oct 2021*
+
+* Maintained and modernized legacy enterprise applications, including systems built with **Lotus Notes**, improving maintainability and long-term sustainability.
+* Designed and implemented **API-driven services** using Node.js and TypeScript to modernize internal business processes.
+* Contributed to a workflow automation initiative that reduced end-to-end processing time from **3–4 business days to approximately 15 minutes**, through backend optimizations and database design improvements.
+* Developed frontend integrations using **Angular and Vue.js**, as well as secure APIs for integration with legacy systems.
 
 ---
 
 ## Education
 
-**Bachelor's Degree in Information Technology**
-  : 2013 - 2020
+### Bachelor of Information Systems
 
-Federal University of the State of Rio de Janeiro (UNIRIO)
-  : Rio de Janeiro, RJ, Brazil
+**Federal University of the State of Rio de Janeiro (UNIRIO)**
+*2013 – 2020*
 
 ---
 
-## Skills
+## Technical Skills
 
-**Frontend:** Vue.js, Angular  
-**Backend:** Node.js, NestJS, LoopBack, RESTful APIs, microservices  
-**Databases:** MySQL, PostgreSQL, DynamoDB, DB2  
-**DevOps & Cloud:** AWS (S3, SQS, SNS, Cognito), Docker, CI/CD  
-**Testing & Documentation:** Jest, Swagger, TDD (Test-Driven Development), code reviews  
-**Languages:** JavaScript, TypeScript, Python (learning), Java (occasional contributions)  
-**Methodologies:** Scrum, Kanban, Agile ceremonies (dailies, sprint planning, retros)
+**Backend**
+Node.js · TypeScript · JavaScript · NestJS · Express · Spring Boot · REST APIs · Microservices
 
+**Frontend**
+React · Next.js · Vue.js · Angular
+
+**Databases & ORM**
+PostgreSQL · MySQL · MongoDB · DynamoDB · DB2 · SQL · TypeORM
+
+**Cloud & Integrations**
+AWS · SQS · SNS · S3 · Cognito · Lambda · API Gateway · Third-party API Integrations · Asynchronous Messaging
+
+**Testing & Quality**
+Jest · Cypress · API Validation · Performance Monitoring · Automated Testing
+
+**Software Engineering**
+Clean Architecture · Design Patterns · Code Review · SOLID · Automated Testing
+
+**DevOps & Observability**
+Docker · CI/CD · Git · GitHub · Amazon CloudWatch · Dynatrace
+
+**Methodologies**
+Agile · Scrum · Kanban
 
 ---
 
 ## Languages
 
-**Portuguese:** Native  
-**English:** Fluent
+* **Portuguese** — Native
+* **English** — Professional Proficiency
