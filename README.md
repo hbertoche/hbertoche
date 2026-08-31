@@ -6,7 +6,7 @@
 
 ## About Me
 
-Senior Software Engineer with **9+ years of experience** building scalable backend and full-stack applications using **Node.js, TypeScript, React, AWS, Docker, PostgreSQL, and microservices architectures**.
+Senior Software Engineer with **9+ years of experience** building scalable backend and full-stack applications using **Node.js, TypeScript, React, Vue, AWS, Docker, PostgreSQL, and microservices architectures**.
 
 Specialized in **API development, cloud integrations, distributed systems, and backend architecture**, with a strong focus on performance, reliability, maintainability, and code quality.
 
